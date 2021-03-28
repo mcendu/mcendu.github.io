@@ -32,8 +32,6 @@ SOFTWARE.**
 The font used on the website, Exo 2, is licensed under the SIL Open Font
 License. The text of the license follows.
 
----
-
 Copyright &copy; 2013, Natanael Gama (www.ndiscovered.com .
 <info@ndiscovered.com>), with Reserved Font Name 'Exo'
 
@@ -131,13 +129,3 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.**
-
-
-## Music
-
-_Paved Garden_ Copyright &copy; [ginkiha](https://twitter.com/ginkiha).
-
-All files pulled from
-[osu! featured artist listing](https://osu.ppy.sh/beatmaps/artists).
-
-Consult the author or copyright owner for more info.
