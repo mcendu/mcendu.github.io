@@ -1,9 +1,9 @@
 # Archive of rhythm game charts
 
 This is an archive of my rhythm game charts. Most of these are links to
-the official uploading site, although some would be hosted here as
-no such site exists for the game (e.g. BMS/Lunatic Rave 2/beatoraja,
-Stepmania) or when I do not want to upload the chart under question.
+the official uploading site, although those that I don't want to upload
+and those made for games without a central authority (e.g. BMS and
+Stepmania) will rest in this site.
 
 ## osu!mania
 
