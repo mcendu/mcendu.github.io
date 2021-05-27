@@ -11,7 +11,7 @@ Stepmania) will rest in this site.
 one of the simplest types of rhythm game in mechanics. BMS-based
 games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
 
-### Gyudon (BMS-styled 7K, 7K+1)
+### 7K and 7K+1
 
 - [無人区-Vacuum Track#ADD8E6-](https://osu.ppy.sh/beatmapsets/1151089)
   My first serious rank project. 7K+1 is done first completely on my own,
@@ -19,9 +19,6 @@ games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
 - [cyanine](https://osu.ppy.sh/beatmapsets/1173053) (abandoned)
 - [Metheus](https://osu.ppy.sh/beatmapsets/1242469)
 - [Sweet* Witch* Girl*](https://osu.ppy.sh/beatmapsets/1401516)
-
-### Ramen (Typical 7K)
-
 - [MilK](https://osu.ppy.sh/beatmapsets/1443095) (WIP)
 An experiment with LNs and an attempt to go outside my comfort zone.
 
