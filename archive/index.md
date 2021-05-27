@@ -19,7 +19,6 @@ games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
 - [cyanine](https://osu.ppy.sh/beatmapsets/1173053) (abandoned)
 - [Metheus](https://osu.ppy.sh/beatmapsets/1242469)
 - [Sweet* Witch* Girl*](https://osu.ppy.sh/beatmapsets/1401516)
-  Same style as the last one, this time without scratch.
 
 ### Ramen (Typical 7K)
 
