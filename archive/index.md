@@ -46,6 +46,6 @@ An experiment with LNs and an attempt to go outside my comfort zone.
     By luck, one of the contestants chose not to map, so I got a slot.
     :amusement: :shrug:
     Thank you, [Yukari_Sama](https://osu.ppy.sh/users/6316524)! -->
-- [w = addict](https://osu.ppy.sh/beatmapsets/1438844) (WIP)!
+- [w = addict](https://osu.ppy.sh/beatmapsets/1438844) (WIP)
 
 [ots2]: https://osu.ppy.sh/community/forums/topics/1308172
