@@ -40,12 +40,12 @@ An experiment with LNs and an attempt to go outside my comfort zone.
 - [Serendipity][ots2]
   - One of the two songs available for mapping in [osu!mania 4K Otaku
     TV Size contest #2][ots2], in which I took part.
-  - [MX](osu/serendipity_osu_aninande.osu) (hosted here, no audio)
+  - [MX](osu/serendipity_ots_aninande.osu) (hosted here, no audio)
     Made for the contest proper. Ended up at #5 (last place).
-<!-- Easy (not yet ready)
-    By luck, one of the contestants chose not to map, so I got a slot.
-    :amusement: :shrug:
-    Thank you, [Yukari_Sama](https://osu.ppy.sh/users/6316524)! -->
+  - [Easy](osu/_1_serendipity_ots_4easy.osu) (guest)
+    One of the contestants chose not to map, so I got a slot by pure
+    luck :amusement: Thank you,
+    [Yukari_Sama](https://osu.ppy.sh/users/6316524)!
 - [w = addict](https://osu.ppy.sh/beatmapsets/1438844) (WIP)
 
 [ots2]: https://osu.ppy.sh/community/forums/topics/1308172
