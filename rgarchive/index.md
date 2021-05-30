@@ -37,7 +37,7 @@ An experiment with LNs and an attempt to go outside my comfort zone.
 - Press S (abandoned; links below)
   - [EZ](http://m.mugzone.net/chart/89454)
   - [NM](http://m.mugzone.net/chart/90115)
-- [Serendipity][ots2]
+- [Serendipity](https://osu.ppy.sh/beatmapsets/1475969)
   - One of the two songs available for mapping in [osu!mania 4K Otaku
     TV Size contest #2][ots2], in which I took part.
   - [MX](osu/serendipity_ots_aninande.osu) (hosted here, no audio)
