@@ -42,7 +42,7 @@ An experiment with LNs and an attempt to go outside my comfort zone.
     TV Size contest #2][ots2], in which I took part.
   - [MX](osu/serendipity_ots_aninande.osu) (hosted here, no audio)
     Made for the contest proper. Ended up at #5 (last place).
-  - [Easy](osu/_1_serendipity_ots_4easy.osu) (guest)
+  - [Easy](osu/01_serendipity_ots_4easy.osu) (guest)
     One of the contestants chose not to map, so I got a slot by pure
     luck :amusement: Thank you,
     [Yukari_Sama](https://osu.ppy.sh/users/6316524)!
