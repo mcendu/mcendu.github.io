@@ -6,6 +6,11 @@ end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
 
+# osu! files (osu! is a windows game)
+[*.osu, *.osb, skin.ini]
+end_of_line = crlf
+
+# stylesheets
 [*.css]
 indent_style = space
 indent_size = 4
