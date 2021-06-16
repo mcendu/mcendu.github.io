@@ -11,22 +11,35 @@ Stepmania) will rest in this site.
 one of the simplest types of rhythm game in mechanics. BMS-based
 games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
 
+[Alleyne]: http://space.bilibili.com/189328443
+
 ### 7K and 7K+1
 
 - [無人区-Vacuum Track#ADD8E6-](https://osu.ppy.sh/beatmapsets/1151089)
-  My first serious rank project. 7K+1 is done first completely on my own,
-  with a 4K set added later due to input from a modder.
+  (7K+1 part) My first ranked map. 7K+1 is done completely on my own.
+  Did this because the original song is done for a BMS event but fails
+  to include a playable chart.
 - [cyanine](https://osu.ppy.sh/beatmapsets/1173053) (abandoned)
 - [Metheus](https://osu.ppy.sh/beatmapsets/1242469)
 - [Sweet* Witch* Girl*](https://osu.ppy.sh/beatmapsets/1401516)
 - [MilK](https://osu.ppy.sh/beatmapsets/1443095) (WIP)
-An experiment with LNs and an attempt to go outside my comfort zone.
+  An experiment with LNs and an attempt to go outside my comfort zone.
+  Also first 7K collab.
+- [INNOCENCE (TV Size)](https://osu.ppy.sh/beatmapsets/1484888) hosted
+  by [Sya-](https://osu.ppy.sh/users/3484485); I map 7K Hard.
+  - [Initial draft (for now)](osu/sya4567_innocence_7H.osu) Hybrid map.
+    First half BMS, later half O2Jam. Chorus is a pain to map for me.
 
 ### 4K
 
 - [Halcyon](https://osu.ppy.sh/beatmapsets/1102270) (abandoned)
   My first upload on osu!. Being a piece of sh*t, it ended up gaining
   over a thousand plays for some reason&hellip;
+- [無人区-Vacuum Track#ADD8E6-](https://osu.ppy.sh/beatmapsets/1151089)
+  (4K part) A 4-men 4-diff 4K collab being ranked along with the 7+1K
+  solo part. [Dilly](https://twitter.com/dilly_p_) mapped NM (Normal),
+  [Ragnarok VII](https://osu.ppy.sh/users/7861549) mapped MX (Insane),
+  I mapped HD (Hard) and [Alleyne] did the top diff.
 - [FREEDOM DiVE (BMS ver.)](https://osu.ppy.sh/beatmapsets/1209825)
 - [`#1f1e33`](https://osu.ppy.sh/beatmapsets/1184620#mania/2485264)
   (guest easy) Thank you, [Murumoo](https://osu.ppy.sh/users/8001433)!
@@ -44,7 +57,8 @@ An experiment with LNs and an attempt to go outside my comfort zone.
     Made for the contest proper. Ended up at #5 (last place).
   - [Easy](osu/01_serendipity_ots_4easy.osu) (guest)
     One of the contestants chose not to map, so I got a slot by pure
-    luck :amusement: Thank you,
+    luck :amusement: Also the first time I put a guest diff onto my
+    `github.io` site. Thank you,
     [Yukari_Sama](https://osu.ppy.sh/users/6316524)!
 - [w = addict](https://osu.ppy.sh/beatmapsets/1438844) (WIP)
 
