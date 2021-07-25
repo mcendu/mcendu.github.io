@@ -29,8 +29,6 @@ games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
   by [Sya-](https://osu.ppy.sh/users/3484485); I map 7K Hard.
   - [Initial draft (for now)](osu/sya4567_innocence_7H.osu) Hybrid map.
     First half BMS, later half O2Jam. Chorus is a pain to map for me.
-- [风屿](https://osu.ppy.sh/beatmapsets/1462834)
-  by [Crystallized-](https://osu.ppy.sh/users/14351534)
 
 ### 4K
 
