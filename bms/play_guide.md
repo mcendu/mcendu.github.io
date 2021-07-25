@@ -8,9 +8,9 @@ maps. The most well known of them are Lunatic Rave 2 for Windows.
 beatoraja, a cross-platform client, and the browser-based Bemuse are
 also well known in games that use BMS as the main format.
 
-- Lunatic Rave 2 https://www.dream-pro.info/~lavalse/LR2_100201.zip
-- beatoraja https://mocha-repository.info/download.php
-- Bemuse https://bemuse.ninja/
+- [Lunatic Rave 2](https://www.dream-pro.info/~lavalse/LR2_100201.zip)
+- [beatoraja](https://mocha-repository.info/download.php)
+- [Bemuse](https://bemuse.ninja/)
 
 ## Setup
 
@@ -62,16 +62,14 @@ Most BMS beatmaps are released on events, where they are available for
 download and play. If you are on time, you can also rate the beatmaps
 yourself.
 
-- THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-
-  https://manbow.nothing.sh/event/event.cgi?action=List_def&event=133
+- [THE BMS OF FIGHTERS XVI -NEO DYSTOPIA-](https://manbow.nothing.sh/event/event.cgi?action=List_def&event=133)
 
 Some people have collected beatmaps into packs. Packs provide an easy
 access to lots of songs, some of which are no longer available at their
 said download links.
 
-- GENOSIDE -BMS StarterPackage 2018-
-  http://nekokan.dyndns.info/~lobsak/genocide/grade.html
-- https://bms.kyouko.moe/
+- [GENOSIDE -BMS StarterPackage 2018-](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
+- [BMS collection at kyouko.moe](https://bms.kyouko.moe/)
 
 ## Grade (Dan) system
 
@@ -79,9 +77,8 @@ While there is no official grade system, the GENOSIDE system is widely
 recognised throughout the community, covering beginners (1 dan) and
 experts (various insane dans) alike.
 
-- http://nekokan.dyndns.info/~lobsak/genoside/course.zip
-  (for Lunatic Rave 2)
-- http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=gradelist
+- [Lunatic Rave 2 course files](http://nekokan.dyndns.info/~lobsak/genoside/course.zip)
+- [LR2 internet ranking](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=gradelist)
 
 Most grade systems use ||~~Chinese~~|| Japanese names. Here is the
 translation of dan names:
