@@ -80,7 +80,7 @@ experts (various insane dans) alike.
 - [Lunatic Rave 2 course files](http://nekokan.dyndns.info/~lobsak/genoside/course.zip)
 - [LR2 internet ranking](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=gradelist)
 
-Most grade systems use ||~~Chinese~~|| Japanese names. Here is the
+Most grade systems use ~~Chinese~~ Japanese names. Here is the
 translation of dan names:
 
 - 一段 1st Dan
