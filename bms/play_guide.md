@@ -1,6 +1,20 @@
 Setup Guide and Useful Links for Playing BMS
 ============================================
 
+BMS is a legend. A major 7K mapping style is named after it. Songs
+from BMS frequently gets into games like Arcaea, Sound Voltex, and
+osu!. Legendary artists, like xi and SHIKI, are well known for
+activity related to BMS. Superhuman achivements, like [beating a
+grade that should be impossible to pass][jakads], are done in BMS.
+It may feel like a temple of gods&hellip;
+
+But don't panic. BMS is just another rhythm game, having levels
+ranging from those that even a beginner won't have much trouble with,
+to those that are challenging. With this guide, I hope to explain in
+detail how to make yourself ready to play BMS, introducing things I
+deem important like software for playing and where to find songs and
+levels (named "beatmaps" from here on).
+
 ## Clients
 
 BMS is an open format, so there are a lot of games that can load BMS
@@ -66,7 +80,7 @@ yourself.
 
 Some people have collected beatmaps into packs. Packs provide an easy
 access to lots of songs, some of which are no longer available at their
-said download links.
+download links when they were released.
 
 - [GENOSIDE -BMS StarterPackage 2018-](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 - [BMS collection at kyouko.moe](https://bms.kyouko.moe/)
@@ -96,6 +110,11 @@ translation of dan names:
 - 発狂一段 Insane 1st Dan, or 11th Dan, meant for high-level players
 - 発狂十段 Insane 10th Dan, or 20th Dan
 - 発狂皆伝 Insane Kaiden, for highest-level players; think Azimuth
-- Overjoy for gods, think Zenith
+- Overjoy, for gods; think Zenith
 
-Have fun!
+## Conclusion
+
+With this guide, I hope that you now have everything set, like songs
+and software, that enables you to enjoy BMS. Have fun!
+
+[jakads]: https://twitter.com/Jakads/status/1409157773959450625?s=20
