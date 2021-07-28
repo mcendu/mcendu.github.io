@@ -8,12 +8,70 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="spectrum_short.svg"
+   sodipodi:docname="spectrum.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <style type="text/css"><![CDATA[
+/**
+ * @license
+ * MyFonts Webfont Build ID 3797987, 2019-08-16T07:07:19-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Torus-Thin by Paulo Goode
+ * URL: https://www.myfonts.com/fonts/paulo-goode/torus/thin/
+ *
+ * Webfont: Torus-SemiBold by Paulo Goode
+ * URL: https://www.myfonts.com/fonts/paulo-goode/torus/semi-bold/
+ *
+ * Webfont: Torus-Regular by Paulo Goode
+ * URL: https://www.myfonts.com/fonts/paulo-goode/torus/regular/
+ *
+ * Webfont: Torus-Light by Paulo Goode
+ * URL: https://www.myfonts.com/fonts/paulo-goode/torus/light/
+ *
+ * Webfont: Torus-Heavy by Paulo Goode
+ * URL: https://www.myfonts.com/fonts/paulo-goode/torus/heavy/
+ *
+ * Webfont: Torus-Bold by Paulo Goode
+ * URL: https://www.myfonts.com/fonts/paulo-goode/torus/bold/
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3797987
+ * Licensed pageviews: 100,000
+ * Webfonts copyright: Copyright &#x00A9; 2017 by Paulo Goode. All rights reserved.
+ *
+ * © 2019 MyFonts Inc
+ */
+
+@font-face {
+  /* Torus-Regular */
+  font-family: 'Torus';
+  font-weight: 400;
+  src: url('https://osu.ppy.sh/assets/fonts/Torus-Regular.734ed3ae.otf');
+}
+
+@font-face {
+  /* Torus-Bold */
+  font-family: 'Torus';
+  font-weight: 700;
+  src: url('https://osu.ppy.sh/assets/fonts/Torus-Bold.c233ce17.otf');
+}
+
+text {
+  font-family:Torus, Inter, Helvetica Neue, Tahoma, Arial,
+    Hiragino Kaku Gothic ProN, Meiryo, Microsoft YaHei, Apple SD Gothic Neo,
+    sans-serif;
+  -inkscape-font-specification:Torus;
+}
+  ]]></style>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#505050"
@@ -272,7 +330,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Labels"
-     style="fill:#ffffff;font-family:Torus,Inter,Helvetica Neue,Tahoma,Arial,Hiragino Kaku Gothic ProN,Meiryo,Microsoft YaHei,Apple SD Gothic Neo,sans-serif;-inkscape-font-specification:Torus;">
+     style="fill:#ffffff;">
     <g
        id="g2359">
       <text
