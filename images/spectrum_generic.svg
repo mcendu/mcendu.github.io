@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="spectrum.svg"
+   sodipodi:docname="spectrum_generic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -32,9 +32,9 @@
      inkscape:snap-text-baseline="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="false"
-     inkscape:zoom="1"
-     inkscape:cx="402.5"
-     inkscape:cy="79.5"
+     inkscape:zoom="1.1583333"
+     inkscape:cx="402.73382"
+     inkscape:cy="79.856117"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -100,7 +100,7 @@
      id="layer2"
      inkscape:label="Background">
     <rect
-       style="opacity:0.995;fill:hsl(45,10%,20%);fill-opacity:1;stroke:none;stroke-width:2.08806;paint-order:stroke fill markers"
+       style="opacity:0.995;fill:hsl(45,0%,15%);fill-opacity:1;stroke:none;stroke-width:2.08806;paint-order:stroke fill markers"
        id="rect5750"
        width="872"
        height="160"
@@ -111,10 +111,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Rulers"
-     style="stroke:#ffffff;stroke-width:1.5pt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+     inkscape:label="Rulers">
     <g
-       id="g2721">
+       id="g2721"
+       style="stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          d="m 39.92208,92 v 34"
          id="path7847"
@@ -141,7 +141,8 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g3378">
+       id="g3378"
+       style="fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          d="m 39.972647,31 v 9"
          id="path917"
@@ -255,7 +256,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Labels"
-     style="fill:#ffffff;font-family:Torus, Inter, 'Helvetica Neue', Tahoma, Arial, 'Hiragino Kaku Gothic ProN', Meiryo, 'Microsoft YaHei', 'Apple SD Gothic Neo', sans-serif;-inkscape-font-specification:Torus;">
+     style="fill:#ffffff;font-family:Exo 2,Inter,Helvetica Neue,Tahoma,Arial,Hiragino Kaku Gothic ProN,Meiryo,Microsoft YaHei,Apple SD Gothic Neo,sans-serif;-inkscape-font-specification:Exo 2;">
     <g
        id="g2359">
       <text

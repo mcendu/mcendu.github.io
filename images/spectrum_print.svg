@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="spectrum.svg"
+   sodipodi:docname="spectrum_print.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -40,7 +40,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      width="872px" />
   <defs
      id="defs2">
@@ -98,21 +98,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Background">
-    <rect
-       style="opacity:0.995;fill:hsl(45,10%,20%);fill-opacity:1;stroke:none;stroke-width:2.08806;paint-order:stroke fill markers"
-       id="rect5750"
-       width="872"
-       height="160"
-       x="0"
-       y="0"
-       rx="3.4330709" />
-  </g>
+     inkscape:label="Background" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Rulers"
-     style="stroke:#ffffff;stroke-width:1.5pt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+     style="stroke:#000000;stroke-width:1.5pt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <g
        id="g2721">
       <path
@@ -255,7 +246,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Labels"
-     style="fill:#ffffff;font-family:Torus, Inter, 'Helvetica Neue', Tahoma, Arial, 'Hiragino Kaku Gothic ProN', Meiryo, 'Microsoft YaHei', 'Apple SD Gothic Neo', sans-serif;-inkscape-font-specification:Torus;">
+     style="fill:#000000;font-family:&quot;Exo 2&quot;,Inter,&quot;Helvetica Neue&quot;,Tahoma,Arial,&quot;Hiragino Kaku Gothic ProN&quot;,Meiryo,&quot;Microsoft YaHei&quot;,&quot;Apple SD Gothic Neo&quot;,sans-serif;-inkscape-font-specification:&quot;Exo 2&quot;;">
     <g
        id="g2359">
       <text
@@ -340,7 +331,7 @@
            style="font-size:10.6667px">5.3 – 6.49</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;fill:#ffd966;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;"
          x="620"
          y="102"
          id="text8784-9"><tspan

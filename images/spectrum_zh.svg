@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="spectrum_short_zh.svg"
+   sodipodi:docname="spectrum_zh.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -100,7 +100,7 @@
      id="layer2"
      inkscape:label="Background">
     <rect
-       style="opacity:0.995;fill:#38352e;fill-opacity:1;stroke:none;stroke-width:2.08806;paint-order:stroke fill markers"
+       style="opacity:0.995;fill:hsl(45,10%,20%);fill-opacity:1;stroke:none;stroke-width:2.08806;paint-order:stroke fill markers"
        id="rect5750"
        width="872"
        height="160"
@@ -111,94 +111,77 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Rulers">
+     inkscape:label="Rulers"
+     style="stroke:#ffffff;stroke-width:1.5pt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <g
-       id="g2721"
-       style="stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       id="g2721">
       <path
          d="m 39.92208,92 v 34"
          id="path7847"
-         sodipodi:nodetypes="cc"
-         style="stroke-width:1.84416;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 215.97003,92 v 34"
          id="path7847-0"
-         sodipodi:nodetypes="cc"
-         style="stroke-width:1.84416;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 277.58681,92 v 34"
          id="path7847-0-8"
-         sodipodi:nodetypes="cc"
-         style="stroke-width:1.84416;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 392.01798,92 v 34"
          id="path7847-0-9"
-         sodipodi:nodetypes="cc"
-         style="stroke-width:1.84416;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 506.44915,92 v 34"
          id="path7847-0-84"
-         sodipodi:nodetypes="cc"
-         style="stroke-width:1.84416;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 612.07792,92 v 34"
          id="path7847-0-844"
-         sodipodi:nodetypes="cc"
-         style="stroke-width:1.84416;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g3378"
-       style="fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       id="g3378">
       <path
          d="m 39.972647,31 v 9"
          id="path917"
-         sodipodi:nodetypes="cc"
-         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 127.97812,31 v 9"
          id="path917-8"
-         sodipodi:nodetypes="cc"
-         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 215.98359,31 v 9"
          id="path917-8-7"
-         sodipodi:nodetypes="cc"
-         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 303.98906,31 v 9"
          id="path917-8-7-5"
-         sodipodi:nodetypes="cc"
-         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 391.99453,31 v 9"
          id="path917-8-7-5-4"
-         sodipodi:nodetypes="cc"
-         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 480,31 v 9"
          id="path917-8-7-5-47"
-         sodipodi:nodetypes="cc"
-         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 568.00547,31 v 9"
          id="path917-8-7-5-5"
-         sodipodi:nodetypes="cc"
-         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 656.01094,31 v 9"
          id="path917-8-7-5-3"
-         sodipodi:nodetypes="cc"
-         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 744.01641,31 v 9"
          id="path917-8-7-5-9"
-         sodipodi:nodetypes="cc"
-         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
       <path
          d="m 832.02188,31 v 9"
          id="path917-8-7-5-1"
-         sodipodi:nodetypes="cc"
-         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+         sodipodi:nodetypes="cc" />
     </g>
   </g>
   <g
@@ -369,8 +352,8 @@
            sodipodi:role="line"
            x="620"
            y="115.3333"
-           id="tspan15380-4"
-           style="font-size:10.6667px">6.5 及以上</tspan></text>
+           style="font-size:10.6667px"
+           id="tspan2680">6.5 及以上</tspan></text>
     </g>
     <g
        id="g3220">
