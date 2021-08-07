@@ -13,6 +13,8 @@ games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
 
 [Alleyne]: http://space.bilibili.com/189328443
 
+[ots2]: https://osu.ppy.sh/community/forums/topics/1308172
+
 ### 7K and 7K+1
 
 - [無人区-Vacuum Track#ADD8E6-](https://osu.ppy.sh/beatmapsets/1151089)
@@ -29,6 +31,11 @@ games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
   by [Sya-](https://osu.ppy.sh/users/3484485); I map 7K Hard.
   - [Initial draft (for now)](osu/sya4567_innocence_7H.osu) Hybrid map.
     First half BMS, later half O2Jam. Chorus is a pain to map for me.
+- [終の舞姫](https://osu.ppy.sh/beatmapsets/1513960) (WIP)
+- [Angelic Layer](bms/angelic14_mcd.bme) BMS DP Hyper by McEndu.
+- [Towards The Horizon](https://osu.ppy.sh/beatmapsets/1530048) hosted
+  by [Crystallized-](https://osu.ppy.sh/users/14351534)
+  - [8K Hyper](osu/timerains_horizon_SPH.osu)
 
 ### 4K
 
@@ -41,7 +48,7 @@ games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
   [Ragnarok VII](https://osu.ppy.sh/users/7861549) mapped MX (Insane),
   I mapped HD (Hard) and [Alleyne] did the top diff.
 - [FREEDOM DiVE (BMS ver.)](https://osu.ppy.sh/beatmapsets/1209825)
-- [`#1f1e33`](https://osu.ppy.sh/beatmapsets/1184620#mania/2485264)
+- [\#1f1e33](https://osu.ppy.sh/beatmapsets/1184620#mania/2485264)
   (guest easy) Thank you, [Murumoo](https://osu.ppy.sh/users/8001433)!
 - [The Last Page](https://osu.ppy.sh/beatmapsets/1272833)
 - [777](https://osu.ppy.sh/beatmapsets/1312841) (abandoned)
@@ -61,5 +68,3 @@ games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
     `github.io` site. Thank you,
     [Yukari_Sama](https://osu.ppy.sh/users/6316524)!
 - [w = addict](https://osu.ppy.sh/beatmapsets/1438844) (WIP)
-
-[ots2]: https://osu.ppy.sh/community/forums/topics/1308172
