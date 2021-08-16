@@ -32,7 +32,8 @@ games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
   - [Initial draft (for now)](osu/sya4567_innocence_7H.osu) Hybrid map.
     First half BMS, later half O2Jam. Chorus is a pain to map for me.
 - [終の舞姫](https://osu.ppy.sh/beatmapsets/1513960) (WIP)
-- [Angelic Layer](bms/angelic14_mcd.bme) BMS DP Hyper by McEndu.
+- [Angelic Layer](bms/angelic14_mcd.bme) It's double the FUN with 14 keys.
+- [Aegleseeker](https://osu.ppy.sh/beatmapsets/1531711)
 - [Towards The Horizon](https://osu.ppy.sh/beatmapsets/1530048) hosted
   by [Crystallized-](https://osu.ppy.sh/users/14351534)
   - [8K Hyper](osu/timerains_horizon_SPH.osu)
@@ -67,4 +68,5 @@ games, Stepmania, osu!mania and Malody Key are examples of VSRGs.
     luck :amusement: Also the first time I put a guest diff onto my
     `github.io` site. Thank you,
     [Yukari_Sama](https://osu.ppy.sh/users/6316524)!
-- [w = addict](https://osu.ppy.sh/beatmapsets/1438844) (WIP)
+- [w = addict](https://osu.ppy.sh/beatmapsets/1438844)
+- [Lyrith -迷宮リリス-](https://osu.ppy.sh/beatmapsets/1504425) (experimental)
