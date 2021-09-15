@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="872"
+   height="160"
+   viewBox="0 0 872 160"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="spectrum_proposal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="160px"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     scale-x="1"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:zoom="1"
+     inkscape:cx="435.5"
+     inkscape:cy="80.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="label-sr"
+     width="872px"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="spectrum">
+      <stop
+         style="stop-color:#4290fb;stop-opacity:1"
+         offset="0"
+         id="spectrum-zero" />
+      <stop
+         style="stop-color:#4fc0ff;stop-opacity:1"
+         offset="0.1388888888"
+         id="spectrum-easy" />
+      <stop
+         style="stop-color:#4fffd5;stop-opacity:1"
+         offset="0.22222222222"
+         id="spectrum-en" />
+      <stop
+         style="stop-color:#7cff4f;stop-opacity:1"
+         offset="0.27777777777"
+         id="spectrum-normal" />
+      <stop
+         style="stop-color:#f6f05c;stop-opacity:1"
+         offset="0.3611111111"
+         id="spectrum-hard" />
+      <stop
+         style="stop-color:#ff3c71;stop-opacity:1"
+         offset="0.5555555556"
+         id="spectrum-insane" />
+      <stop
+         style="stop-color:#b84fec;stop-opacity:1"
+         offset="0.6666666667"
+         id="spectrum-expert" />
+      <stop
+         style="stop-color:#6563de;stop-opacity:1"
+         offset="0.7777777778"
+         id="spectrum-expertplus" />
+      <stop
+         style="stop-color:#18158e;stop-opacity:1"
+         offset="0.8888888889"
+         id="spectrum-extreme" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="spectrum-extremeplus" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#spectrum"
+       id="linearGradient1639"
+       x1="40"
+       y1="40"
+       x2="832"
+       y2="40"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
+    <rect
+       style="opacity:0.995;fill:hsl(45,0%,85%);fill-opacity:1;stroke:none;stroke-width:2.08806;paint-order:stroke fill markers"
+       id="background"
+       width="872"
+       height="160"
+       x="0"
+       y="0"
+       rx="3.4330709" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Rulers"
+     style="stroke:#000000;stroke-width:1.5pt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <g
+       id="ruler-diff">
+      <path
+         d="m 40,92 v 34"
+         id="ruler-easy"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 216,92 v 34"
+         id="ruler-normal"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 278,92 v 34"
+         id="ruler-hard"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 392,92 v 34"
+         id="ruler-insane"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 507,92 v 34"
+         id="ruler-expert"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 612,92 v 34"
+         id="ruler-expertplus"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="ruler-sr">
+      <path
+         d="m 40,31 v 9"
+         id="ruler-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 128,31 v 9"
+         id="ruler-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 216,31 v 9"
+         id="ruler-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 304,31 v 9"
+         id="ruler-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 392,31 v 9"
+         id="ruler-4"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 480,31 v 9"
+         id="ruler-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 568,31 v 9"
+         id="ruler-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 656,31 v 9"
+         id="ruler-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 744,31 v 9"
+         id="ruler-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 832,31 v 9"
+         id="ruler-9"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Spectrum"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient1639);"
+       id="spectrum-display"
+       width="792"
+       height="24"
+       x="40"
+       y="46" />
+    <g
+       id="diff-display">
+      <rect
+         style="fill:#6662dd;"
+         id="diff-expertplus"
+         width="220"
+         height="8"
+         x="612"
+         y="78" />
+      <rect
+         style="fill:#b84fec;"
+         id="diff-expert"
+         width="105"
+         height="8"
+         x="507"
+         y="78" />
+      <rect
+         style="fill:#ff3c71;"
+         id="diff-insane"
+         width="115"
+         height="8"
+         x="392"
+         y="78" />
+      <rect
+         style="fill:#f7e85d;"
+         id="diff-hard"
+         width="114"
+         height="8"
+         x="278"
+         y="78" />
+      <rect
+         style="fill:#66ff91;"
+         id="diff-normal"
+         width="62"
+         height="8"
+         x="216"
+         y="78" />
+      <rect
+         style="fill:#4ebfff;"
+         id="diff-easy"
+         width="176"
+         height="8"
+         x="40"
+         y="78" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Labels"
+     style="fill:#000000;font-family:&quot;Exo 2&quot;,Inter,&quot;Helvetica Neue&quot;,Tahoma,Arial,&quot;Hiragino Kaku Gothic ProN&quot;,Meiryo,&quot;Microsoft YaHei&quot;,&quot;Apple SD Gothic Neo&quot;,sans-serif;-inkscape-font-specification:&quot;Exo 2&quot;;">
+    <g
+       id="label-diff">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;"
+         x="48"
+         y="102"
+         id="label-easy"><tspan
+           sodipodi:role="line"
+           id="tspan8782"
+           x="48"
+           y="102"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;">Easy</tspan><tspan
+           sodipodi:role="line"
+           x="48"
+           y="115.3333"
+           id="tspan15380"
+           style="font-size:10.6667px">0.0 – 1.99</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;"
+         x="224"
+         y="102"
+         id="label-normal"><tspan
+           sodipodi:role="line"
+           id="tspan8782-0"
+           x="224"
+           y="102"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;">Normal</tspan><tspan
+           sodipodi:role="line"
+           x="224"
+           y="115.3333"
+           id="tspan15380-8"
+           style="font-size:10.6667px">2.0 – 2.69</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;"
+         x="286"
+         y="102"
+         id="label-hard"><tspan
+           sodipodi:role="line"
+           id="tspan8782-8"
+           x="285.60001"
+           y="102"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;">Hard</tspan><tspan
+           sodipodi:role="line"
+           x="285.60001"
+           y="115.3333"
+           id="tspan15380-7"
+           style="font-size:10.6667px">2.7 – 3.99</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;"
+         x="400"
+         y="102"
+         id="label-insane"><tspan
+           sodipodi:role="line"
+           id="tspan8782-5"
+           x="400"
+           y="102"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;">Insane</tspan><tspan
+           sodipodi:role="line"
+           x="400"
+           y="115.3333"
+           id="tspan15380-5"
+           style="font-size:10.6667px">4.0 – 5.29</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;"
+         x="515"
+         y="102"
+         id="label-expert"><tspan
+           sodipodi:role="line"
+           id="tspan8782-1"
+           x="514.40002"
+           y="102"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;">Expert</tspan><tspan
+           sodipodi:role="line"
+           x="514.40002"
+           y="115.3333"
+           id="tspan15380-75"
+           style="font-size:10.6667px">5.3 – 6.49</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;"
+         x="620"
+         y="102"
+         id="label-expertplus"><tspan
+           sodipodi:role="line"
+           id="tspan8782-16"
+           x="620"
+           y="102"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;">Expert+</tspan><tspan
+           sodipodi:role="line"
+           x="620"
+           y="115.3333"
+           id="tspan15380-4"
+           style="font-size:10.6667px">6.5 and above</tspan></text>
+    </g>
+    <g
+       id="label-sr">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;fill-opacity:1"
+         x="46"
+         y="39"
+         id="label-0"><tspan
+           sodipodi:role="line"
+           id="tspan29213"
+           x="46"
+           y="39">0.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;fill-opacity:1"
+         x="134"
+         y="39"
+         id="label-1"><tspan
+           sodipodi:role="line"
+           x="134"
+           y="39"
+           id="tspan39319">1.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;fill-opacity:1"
+         x="222"
+         y="39"
+         id="label-2"><tspan
+           sodipodi:role="line"
+           x="222"
+           y="39"
+           id="tspan40173">2.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;fill-opacity:1"
+         x="310"
+         y="39"
+         id="label-3"><tspan
+           sodipodi:role="line"
+           x="310"
+           y="39"
+           id="tspan40961">3.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;fill-opacity:1"
+         x="398"
+         y="39"
+         id="label-4"><tspan
+           sodipodi:role="line"
+           id="tspan29213-1"
+           x="398"
+           y="39">4.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;fill-opacity:1"
+         x="486"
+         y="39"
+         id="label-5"><tspan
+           sodipodi:role="line"
+           id="tspan29213-6"
+           x="486"
+           y="39">5.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;fill-opacity:1"
+         x="574"
+         y="39"
+         id="label-6"><tspan
+           sodipodi:role="line"
+           id="tspan29213-86"
+           x="574"
+           y="39">6.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;fill-opacity:1"
+         x="662"
+         y="39"
+         id="label-7"><tspan
+           sodipodi:role="line"
+           id="tspan29213-2"
+           x="662"
+           y="39">7.0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;fill-opacity:1"
+         x="750"
+         y="39"
+         id="label-8"><tspan
+           sodipodi:role="line"
+           id="tspan29213-9"
+           x="750"
+           y="39">8.0</tspan></text>
+    </g>
+  </g>
+</svg>
